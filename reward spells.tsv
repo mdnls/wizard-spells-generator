@@ -1,0 +1,46 @@
+type	count	new count	quality	rarity	Item Name	Description	AI Prompt Adjustment
+boon	10	22		common	Rock	It's just a rock.	Draw a very generic, unsurprising, normal rock.
+	1	12		common	Nonsense 	laskfasldbgnaskdjbgas	Draw a wizard holding a spell book, looking confused, and the spell book is full of nonsense.
+curse	20	17	1	common	I'm sensing notes of	Pick someone. They must swirl and sniff their drink dramatically before every sip, as if it's a potion, until they finish their can	
+boon	10	20	3	common	Counterspell	When someone casts a spell on you, it bounces back and affects the caster instead. Works only once.	
+curse	20	17	1	common	Encore	One person of your choosing must sing whenever they aren't drinking until they finish their can	
+boon/curse	20	17		common	Entertain me, jester	Point at someone. They must do a party trick of their choice.	
+curse	16	17	2	common	Kiki's Delivery Service	Make someone else use their staff as a witch's broom until they finish their can	
+curse	20	17	1	common	Court Jester	Pick someone. They must narrate everyone’s actions dramatically until they finish their drink.	
+boon	10	20	3	common	Phoenix Feather Wand	Using this wand (this card) grants you one re-casting of a spell you've already cast	
+curse	20	15	2	common	Dunce cap	Pick someone. Make a dunce cap for them. They must wear it until the next ceremony	
+boon/curse	20	22	1	common	Potion of Truth	Choose someone to answer 3 questions honestly or take a drink for every dodge.	
+curse	20	17	1	common	Time Turner	Force someone to act as if they're from a different time period for the next 10 minutes or drink. Anachronistic language is encouraged.	
+curse	16	22	1	common	Truth or Dare	Ask someone "truth or dare," and they must choose one. If they refuse, they take a drink.	
+boon	10	22	3	common	Deflection	When someone casts a spell on you, you may choose another player within sight for it to hit instead (not the caster).	
+boon	10	22	2	common	Dragon Heartstring Core Wand	Obtain a wand with a Dragon heartstring core (this card), making your spells more potent and formidable. (can affect 1 more person)	
+curse	20	17	2	common	Twins	Pick two people. They must link arms until they both finish their drinks	
+boon/curse	20	22		common	Let's Make Fetch Happen	Pick someone. They must grab you a drink of your specification (to the best of their ability, depending on availability)	
+		22		common	Polymorph	Pick a player. For the next 15 minutes, they must act like an animal of your choice.	Make this one furry coded by inserting a cute anthropomorphic furry fox wizard character
+curse	20	17		common	Hahvahd Yahd	Pick someone. They must talk in a Boston accent until they finish their drink	
+curse	20	17		common	Photosynthesis	Pick someone. Until they finish their drink, they can only drink when directly under light.	
+curse	20	17		common	Pokemon Disease	Pick someone. They can only say their own name and nothing else until they finish their drink	
+curse	20	17		common	Shakespeare in the Common Room	Pick someone. They can only talk in shakespearean language until they finish their drink	
+curse	10	17		common	Billowing Wind	You may pick another wizard, they must flip their cloak over their head until they finish their next drink. 	
+boon/curse	10	22		common	Binding Pact	Create a 1-sentence binding pact with another player. If either of you breaks it, they must finish their drink on the spot.		Draw a scene with two wizards making a serious pact together over a powerful magical spell book.
+boon/curse	10	17	1	common	Jester's Jest	Tell a joke, and everyone must laugh. Those who don't laugh take a drink.	
+curse	8	8	4	rare	Blood Stew	Pick someone. Their next beverage is a can of tomato soup. It must go on their staff.	
+boon	10	8	4	rare	Elder Wand	Possess the legendary Elder Wand (this card), which grants you a one-time casting of any spell of your level or lower of any class	
+boon	3	3		rare	Rare Rock	Bring this to a party host to obtain a special rock, a stone, if you will. you can get stoned off of it (if you wish).	
+boon	2	2	5	rare	Gun	You must take this to a party host. We will give you a gun that allows you to instantly win a duel by shooting someone with a nerf gun. You may give it to someone else on your team.	Draw a normal looking person firing a glock at a wizard. Use a photorealistic style for the person and wizardly style for everything else.
+boon		4		rare	Exodia, the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	Draw the face of a forbidable and intimidating magical golem.
+boon		4		rare	Left Arm of the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	
+boon		4		rare	Right Arm of the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	
+boon		4		rare	Left Leg of the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	
+boon		4		rare	Right Leg of the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	
+boon	10	10		rare	Go Piss Girl	You may skip to the front of the bathroom line. Can cancel out "little piss boy."	
+curse	8	5		rare	Little Piss Boy	Pick someone in the bathroom line, they must go to the end of the bathroom line. Can cancel out "go piss girl."	
+boon		8		rare	Polyjuice potion	Pick someone who is currently playing a party game. You make take their place, and they have to leave the game.	
+boon		8		rare	Pot of Greed	If you draw a spell that you dislike, discard that card and pot of greed to draw two new cards of the rarity of the card you discarded	
+curse	20	8		rare	Goblin Guard	Pick a player. They become your "Goblin Guard" and must loudly announce "My liege is drinking!" every time you take a sip until you finish your drink.	
+boon		12		rare	Ice Ice Baby	Ask a host for a smirnoff ice. Use it to ice someone.	
+		8		rare	Discord Kitten	Pick a player. They must start and end every sentence with 'uwu,' 'owo,' 'mrow,' or 'nyaaa' until they finish their drink.  	Draw a cute anthoporphic wizard cat character saying owo, awa, etc.
+Sum total	393	564			23.80952381		
+sum rare		100	r count	16			
+sum common		464	c count	21			
+	need 500 spells	425	ratio:	4.64			
