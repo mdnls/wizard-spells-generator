@@ -1,0 +1,62 @@
+type	count	new count	quality	rarity	Item Name	Description	AI Prompt Adjustment
+boon	10	22		common	Rock	Rock	
+	1	12		common	Nonsense 	febjkdsfgbjkdfsjk.gnsfjnklhdsfetwu983gbj.gf<L":bfz0942v	
+curse	20	17	1	common	I'm sensing notes of	Pick someone. They must swirl and sniff their drink dramatically before every sip, as if it's a potion, until they finish their can	
+boon	10	20	3	common	Counterspell	When someone casts a spell on you, it bounces back and affects the caster instead. Works only once.	
+curse	20	17	1	common	Encore	One person of your choosing must sing whenever they aren't drinking until they finish their can	
+boon/curse	20	17		common	Entertain me, jester	Point at someone. They must do a party trick of their choice.	
+curse	16	17	2	common	Kiki's Delivery Service	Make someone else use their staff as a witch's broom until they finish their can	
+curse	20	17	1	common	Court Jester	Pick someone. They must narrate everyone’s actions dramatically until they finish their drink.	
+boon	10	20	3	common	Phoenix Feather Wand	Using this wand (this card) grants you one re-casting of a spell you've already cast	
+curse	20	15	2	common	Dunce cap	Pick someone. Make a dunce cap for them. They must wear it until the next ceremony	
+boon/curse	20	22	1	common	Potion of Truth	Choose someone to answer 3 questions honestly or take a drink for every dodge.	
+curse	20	17	1	common	Time Turner	Force someone to act as if they're from a different time period for the next 10 minutes or drink. Anachronistic language is encouraged.	
+curse	16	22	1	common	Truth or Dare	Ask someone "truth or dare," and they must choose one. If they refuse, they take a drink.	
+boon	10	22	3	common	Deflection	When someone casts a spell on you, you may choose another player within sight for it to hit instead (not the caster).	
+boon	10	22	2	common	Dragon Heartstring Core Wand	Obtain a wand with a Dragon heartstring core (this card), making your spells more potent and formidable. (can affect 1 more person)	
+curse	20	17	2	common	Twins	Pick two people. They must link arms until they both finish their drinks	
+boon/curse	20	22		common	Let's Make Fetch Happen	Pick someone. They must grab you a drink of your specification (to the best of their ability, depending on availability)	
+		22		common	Polymorph	Pick a player. For the next 15 minutes, they must act like an animal of your choice.	Make this one furry coded by inserting an adorable furry fox character
+curse	20	17		common	Hahvahd Yahd	Pick someone. They must talk in a Boston accent until they finish their drink	
+curse	20	17		common	Photosynthesis	Pick someone. Until they finish their drink, they can only drink when directly under light.	
+curse	20	17		common	Pokemon Disease	Pick someone. They can only say their own name and nothing else until they finish their drink	
+curse	20	17		common	Shakespeare in the Common Room	Pick someone. They can only talk in shakespearean language until they finish their drink	
+curse	10	17		common	Billowing Wind	You may pick another wizard, they must flip their cloak over their head until they finish their next drink. 	
+boon/curse	10	22		common	Binding Pact	Create a 1-sentence binding pact with another player. If either of you breaks it, they must finish their drink on the spot.	
+boon/curse	10	17	1	common	Jester's Jest	Tell a joke, and everyone must laugh. Those who don't laugh take a drink.	
+curse	8	8	4	rare	Blood Stew	Pick someone. Their next beverage is a can of tomato soup. It must go on their staff.	
+boon	10	8	4	rare	Elder Wand	Possess the legendary Elder Wand (this card), which grants you a one-time casting of any spell of your level or lower of any class	
+boon	3	3		rare	Rare Rock	Bring this to a party host to obtain a special rock, a stone, if you will. you can get stoned off of it (if you wish).	Draw an epic wizard with bloodshot eyes smoking a joint and getting super stoned in his study.
+boon	2	2	5	rare	Gun	You must take this to a party host. We will give you a gun that allows you to instantly win a duel by shooting someone with a nerf gun. You may give it to someone else on your team.	Draw a photorealistic, normal looking person pointing a glock at a wizard. Use a wizardly style for everything but the person holding the gun.
+boon		4		rare	Exodia, the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	Draw the face of a forbidable and intimidating magical golem.
+boon		4		rare	Left Arm of the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	
+boon		4		rare	Right Arm of the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	
+boon		4		rare	Left Leg of the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	
+boon		4		rare	Right Leg of the forbidden one	This is a piece of exodia. If your team can collect all 5 pieces of exodia, their team scores X points and everyone on the team gets one common spell	
+boon	10	10		rare	Go Piss Girl	You may skip to the front of the bathroom line. Can cancel out "little piss boy."	
+curse	8	5		rare	Little Piss Boy	Pick someone in the bathroom line, they must go to the end of the bathroom line. Can cancel out "go piss girl."	
+boon		8		rare	Polyjuice potion	Pick someone who is currently playing a party game. You make take their place, and they have to leave the game.	
+boon		8		rare	Pot of Greed	If you draw a spell that you dislike, discard that card and pot of greed to draw two new cards of the rarity of the card you discarded	
+curse	20	8		rare	Goblin Guard	Pick a player. They become your "Goblin Guard" and must loudly announce "My liege is drinking!" every time you take a sip until you finish your drink.	
+boon		12		rare	Ice Ice Baby	Ask a host for a smirnoff ice. Use it to ice someone.	Draw a wizard kneeling, on one knee drinking from a smirnoff ice bottle, a crowd of other wizards is cheering.
+		8		rare	Discord Kitten	Pick a player. They must start and end every sentence with 'uwu,' 'owo,' 'mrow,' or 'nyaaa' until they finish their drink.  	
+				Aquamancer	Summon Ice	Give another player an ice cube. They must hold it until it melts.	
+				Aquamancer	Rippling Reflection	The next spell cast at you is reflected onto another player (you choose)	
+				Aquamancer	Siphon	Choose 1 player to pour the rest of your can into theirs (it can't overflow). You keep your level.	Draw a wizard magically moving the contents of his drink into an elf's cup.
+				Aquamancer	Hydrate	For the rest of the party, you may force anyone to drink a glass of water at any time (max 3 times per person)	Draw a wizard magically summoning a glass of water into the hand of an onlooker.
+				Romancer	Stupid in Love	Choose a player. They may only speak in one syllable words until they level up.	
+				Romancer	Flattery	Choose 3 players. Each of them must give you a compliment. Decide which compliment was best, and the other 2 players must finish the rest of your drink together. You keep the level.	
+				Romancer	Cupid's Arrow	Choose a player, they must wink after everything they say until they level up (remind people they can explain what is going on)	
+				Romancer	Dramatic Demise	For the rest of the party, anyone you touch must faint dramatically to the ground. (they can just get up again immediately)	
+				Salamancer	Embrace the forest	Targeted wizard may only drink while performing the tree pose.	
+				Salamancer	Transmogrify	Two players swap an item of clothing (of their choice) until the end of the era.	
+				Salamancer	Ensnare	Choose two players and wrap duct tape around the both of them, taping them together. they must stay that way until they both level up.	Draw two wizards ensared together by a magical rope.
+				Salamancer	Druid's Circle	Choose 5 players. They must stand in a circle, holding each other's staffs with both arms, until they have all finished their drinks. You can cast this up to three times total	
+				Pyromancer	Fireball	Choose 3 players to all take 1 sip of fireball.	
+				Pyromancer	Torch Bearer	Pick a player who must hold your staff for you until you finish your drink.	Draw an elf holding a staff next to a wizard, who is casually summoning a small flame above his hand, while drinking mead.
+				Pyromancer	Flame trap	Next time a spell is cast on you, choose 3 others to share the same fate	
+				Pyromancer	Feet on Fire	For the rest of the party, you have the ability to make anyone dance for ten seconds	
+				Alchemancer	Paralytic Tincture	The targeted player can't move from their spot until they level up	
+				Alchemancer	Echo Elixir	Choose another player. They can cast their next spell 2 times. You get input on the target(s)	
+				Alchemancer	Alchemy	Choose two people. Combine their drinks into a single vessel, then distribute them back into their drinking containers.	
+				Alchemancer	Doppelbrew	Make 2 people follow you around and repeat everything you say and do until they finish their drink. Whenever you lose a mirror image, you can cast the spell on someone new. You cannot cast the spell on the same person twice.	

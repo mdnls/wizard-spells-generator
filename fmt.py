@@ -384,6 +384,11 @@ if __name__ == "__main__":
     # Set up paths
     rare_card_template_img = "template images/rare.png"
     common_card_template_img = "template images/common.png"
+    salamancer_card_template_img = "template images/salamancer.png"
+    pyromancer_card_template_img = "template images/pyromancer.png"
+    alchemancer_card_template_img = "template images/alchemancer.png"
+    aquamancer_card_template_img = "template images/aquamancer.png"
+    romancer_card_template_img = "template images/romancer.png"
     rare_mask_img = "template images/rare-mask.png"
     common_mask_img = "template images/common-mask.png"
     spells_tsv = "reward spells.tsv"
@@ -402,7 +407,7 @@ if __name__ == "__main__":
     # Create cards directory if it doesn't exist
     os.makedirs('cards', exist_ok=True)
     
-    with open('reward spells.tsv', 'r') as f_in:
+    with open('reward spells extended.tsv', 'r') as f_in:
         data = [line.split("\t") for line in f_in.readlines()]
     
     for spell in data[1:]:
@@ -436,6 +441,31 @@ if __name__ == "__main__":
             card_img.save(card_path)
         elif rarity == "common":
             card_img = fill_mask(common_card_template_img, common_mask_img, card_manifest[-1])
+            if card_img is None:
+                continue
+            card_img.save(card_path)
+        elif rarity == "Salamancer":
+            card_img = fill_mask(salamancer_card_template_img, rare_mask_img, card_manifest[-1])
+            if card_img is None:
+                continue
+            card_img.save(card_path)
+        elif rarity == "Aquamancer":
+            card_img = fill_mask(aquamancer_card_template_img, rare_mask_img, card_manifest[-1])
+            if card_img is None:
+                continue
+            card_img.save(card_path)
+        elif rarity == "Romancer":
+            card_img = fill_mask(romancer_card_template_img, rare_mask_img, card_manifest[-1])
+            if card_img is None:
+                continue
+            card_img.save(card_path)
+        elif rarity == "Pyromancer":
+            card_img = fill_mask(pyromancer_card_template_img, rare_mask_img, card_manifest[-1])
+            if card_img is None:
+                continue
+            card_img.save(card_path)
+        elif rarity == "Alchemancer":
+            card_img = fill_mask(alchemancer_card_template_img, rare_mask_img, card_manifest[-1])
             if card_img is None:
                 continue
             card_img.save(card_path)
